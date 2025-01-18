@@ -11,10 +11,10 @@ This repository demonstrates how to ingest IoT sensor data into influxdb using P
 1. Set up an InfluxDB bucket and organization.
 2. Obtain the InfluxDB API token from the InfluxDB UI.
 3. Update the following variables in the script with your configuration:
-   url: URL of your InfluxDB instance (e.g., http://localhost:8086).
-   token: Your InfluxDB API token.
-   org: Your organization name.
-   bucket: Your bucket name.
+   i)   url: URL of your InfluxDB instance (e.g., http://localhost:8086).
+   ii)  token: Your InfluxDB API token.
+   iii)  org: Your organization name.
+   iv)   bucket: Your bucket name.
 
 ### Steps to execute the project
    
