@@ -75,7 +75,7 @@ def main():
     """
     # Configuration
     url = "http://localhost:8086"
-    token = "MEAT-s7rHQtlKtOkG-5-vH5MJ9XSgwF6jq7cEdb4D1nCnXk_pgHIiZT7p1PArO2N0yVb17MCU0y8Pgksz-bxOQ=="
+    token = "INSERT_YOUR_TOKEN_HERE"
     org = "workspace"
     bucket = "bucket_new"
     
